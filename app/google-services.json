@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488929521612",
+    "project_id": "the-junktion-filkom",
+    "storage_bucket": "the-junktion-filkom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488929521612:android:d70bf886a09a8acc953769",
+        "android_client_info": {
+          "package_name": "com.timtam.thejunktion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488929521612-bn2ph72qhpmsupn21dg9107cv7if3ngf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh4SFJzjE7x8fRuPksIWy1QdXeDQgxCQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488929521612-bn2ph72qhpmsupn21dg9107cv7if3ngf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
