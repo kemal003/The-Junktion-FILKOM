@@ -19,6 +19,7 @@ private val LightColorScheme = lightColorScheme(
     primary = BlueFilkom,
     secondary = OrangeFilkom,
     tertiary = LightBlueFilkom,
+    surface = DarkBlueFilkom,
 
     /* Other default colors to override
     background = Color(0xFFFFFBFE),
